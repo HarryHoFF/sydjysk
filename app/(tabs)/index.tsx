@@ -115,7 +115,7 @@ export default function HomeScreen() {
           <View style={styles.statsRow}>
             <View style={styles.statCard}>
               <Text style={styles.statLabel}>Indgående</Text>
-              <Text style={styles.statValueGreen}>+55.542 DKK</Text>
+              <Text style={styles.statValueGreen}>+98.784 DKK</Text>
               <Text style={styles.statPeriod}>denne måned</Text>
             </View>
             <View style={styles.statCard}>
