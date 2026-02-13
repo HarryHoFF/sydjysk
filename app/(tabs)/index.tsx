@@ -120,7 +120,7 @@ export default function HomeScreen() {
             </View>
             <View style={styles.statCard}>
               <Text style={styles.statLabel}>Udgående</Text>
-              <Text style={styles.statValueWhite}>0 DKK</Text>
+              <Text style={styles.statValueWhite}>43.242 DKK</Text>
               <Text style={styles.statPeriod}>denne måned</Text>
             </View>
           </View>
